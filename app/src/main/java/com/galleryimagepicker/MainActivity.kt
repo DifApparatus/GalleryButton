@@ -41,6 +41,5 @@ class MainActivity : AppCompatActivity() {
     }
     companion object {
         private const val GALLERY_REQUEST : Int = 1
-        private const val PATH = "image/*"
     }
 }
