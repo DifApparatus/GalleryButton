@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">GalleryImagePicker</string>
-    <string name="galleryPickerButton_label">Choose an image</string>
+    <string name="gallery_button_label">Choose an image</string>
 </resources>

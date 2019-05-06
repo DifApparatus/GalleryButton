@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gallery_image_height_weight">9</dimen>
+    <dimen name="gallery_image_margin_left">8dp</dimen>
+    <dimen name="gallery_image_margin_start">4dp</dimen>
+    <dimen name="gallery_image_margin_end">8dp</dimen>
+    <dimen name="gallery_image_margin_right">8dp</dimen>
+    <dimen name="gallery_image_margin_top">8dp</dimen>
+
+    <dimen name="gallery_button_height_weight">1</dimen>
+    <dimen name="gallery_button_margin_left">8dp</dimen>
+    <dimen name="gallery_button_margin_start">4dp</dimen>
+    <dimen name="gallery_button_margin_end">8dp</dimen>
+    <dimen name="gallery_button_margin_right">8dp</dimen>
+    <dimen name="gallery_button_margin_top">8dp</dimen>
+</resources>

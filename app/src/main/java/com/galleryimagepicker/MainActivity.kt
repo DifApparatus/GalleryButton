@@ -2,12 +2,15 @@ package com.galleryimagepicker
 
 import android.app.Activity
 import android.content.Intent
-import android.net.Uri
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
 import kotlinx.android.synthetic.main.activity_main.*
 
+/**
+ * Selecting a picture from the gallery.
+ * @author Aliaksandr Shapkin
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -39,7 +42,7 @@ class MainActivity : AppCompatActivity() {
             )
         }
     }
-    companion object {
+    private companion object {
         private const val GALLERY_REQUEST : Int = 1
     }
 }
